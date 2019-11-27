@@ -1,0 +1,20 @@
+.topBar{
+    background-color: #f6f7f8;
+    text-align: left;
+}
+.logo{
+    margin-left: 20px;
+    height: 20%;
+    width: 20%;
+}
+.navbarbrnad{
+    width: 53%;
+}
+.navitem{
+    font-color:#000;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.newnav{
+    color: black;
+}
