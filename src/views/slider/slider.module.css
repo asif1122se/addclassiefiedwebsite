@@ -1,0 +1,14 @@
+.bg {
+    background-image: url("cover.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: auto;
+    padding: 150px;
+    color: #f6f7f8;
+}
+.table{
+    opacity: 0.5%;
+}
